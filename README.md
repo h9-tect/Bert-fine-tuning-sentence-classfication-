@@ -11,3 +11,4 @@
 دي مرحلةة layers في الشبكة العصبية 
 ## المرحلة الخامسه The Feed-Forward layer 
 ودي بستخدم فيها Relu كــــــactivation function
+![alt text](1_2vyKzFlzIHfSmOU_lnQE4A.png)
